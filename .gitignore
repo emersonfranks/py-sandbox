@@ -91,6 +91,9 @@ ENV/
 .tcl
 tcl/
 
+# PyCharm
+.idea/workspace.xml
+
 # Spyder project settings
 .spyderproject
 .spyproject
